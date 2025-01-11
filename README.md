@@ -3,6 +3,8 @@ A simple game made using ESP32
 
 
 
+
+
 # How to make
 Componenets:
 - ESP32-WROOM32
