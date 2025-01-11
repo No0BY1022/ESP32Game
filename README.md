@@ -1,8 +1,9 @@
 # ESP32Game
 A simple game made using ESP32
 
-
-
+![Image](pic1.jpg)
+![Image](pic2.jpg)
+![Image](pic3.jpg)
 
 
 # How to make
