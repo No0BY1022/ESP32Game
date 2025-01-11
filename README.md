@@ -1,6 +1,9 @@
 # ESP32Game
 A simple game made using ESP32
 
+
+
+#how to make
 Componenets:
 - ESP32-WROOM32
 - 3 pushbuttons
