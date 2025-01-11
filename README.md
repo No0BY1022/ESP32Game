@@ -3,7 +3,7 @@ A simple game made using ESP32
 
 
 
-# how to make (H1)
+# How to make
 Componenets:
 - ESP32-WROOM32
 - 3 pushbuttons
